@@ -1,0 +1,17 @@
+transformers>=4.0.0  # For working with transformer models (BERT, GPT, etc.)
+nltk>=3.6.0         # For natural language processing tasks
+tqdm>=4.62.0        # For progress bars
+h5py>=3.1.0         # For handling HDF5 files (common in deep learning)
+scikit-image>=0.18.0  # For image processing
+wandb>=0.12.0       # For experiment tracking
+pytest>=6.0.0       # For testing
+tensorflow>=2.8.0    # Core deep learning framework
+torch>=1.10.0        # PyTorch deep learning framework
+numpy>=1.21.0        # For numerical computations
+pandas>=1.3.0        # For data manipulation
+matplotlib>=3.4.0    # For plotting
+scikit-learn>=1.0.0  # For machine learning utilities
+keras>=2.8.0         # High-level neural network API
+pillow>=8.3.0        # For image processing
+scipy>=1.7.0         # For scientific computing
+seaborn>=0.11.0      # For statistical data visualization
